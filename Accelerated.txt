@@ -1,0 +1,23 @@
+Accelerated Computing Instance
+
+-Use hardware accelerators, or co-processors, to perform functions.
+
+G Instance-*G5 instance
+
+           *G5g instance
+
+           *G4ad and G4dn instance
+
+           *G3 instance
+
+           *G2 instance
+
+P Instance-*P4d instance
+
+           *P3 instance
+
+           *P2 instance
+
+F Instance-*FPGA instance
+
+InF1 Instance

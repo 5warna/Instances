@@ -1,0 +1,11 @@
+Compute Optimized Instance
+
+-Ideal for compute-bound applications that benefit from high-performance processors.
+
+C Instance-*C4 Instances
+           
+           *C5, C5a and C5n instances
+           
+           *C6a, C6i, C6g, C6gn and Hpc6a instances
+
+           *C7g instances

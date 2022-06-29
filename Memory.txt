@@ -1,0 +1,19 @@
+Memory Optimized Instance 
+
+-Designed to deliver fast performance for workloads that process large data sets in memory.
+
+R Instance-*R4 instance
+
+           *R5, R5a, R5b and R5n instances
+
+           *R6g and R6gd instances
+
+           *R6i and R6id instances
+
+X Instance-*X1 and X1e instances
+
+           *X2gd instance
+           
+           *X2idn, X2iedn and X2iezn instances
+
+Z Instance-*z1d instance
